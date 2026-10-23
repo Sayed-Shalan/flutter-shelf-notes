@@ -1,0 +1,28 @@
+name: shelf_notes
+description: A small reading shelf built with Cubit, Either, and a repository boundary.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  dartz: ^0.10.1
+  dio: ^5.9.2
+  flutter_bloc: ^9.1.1
+  get_it: ^9.2.1
+  go_router: ^17.1.0
+  intl: 0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true

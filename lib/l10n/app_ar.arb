@@ -1,0 +1,18 @@
+{
+  "@@locale": "ar",
+  "appTitle": "الرف",
+  "shelfTitle": "رف القراءة",
+  "emptyShelf": "الرف فارغ.",
+  "loadFailed": "تعذر تحميل الرف.",
+  "retry": "حاول مرة أخرى",
+  "addBook": "أضف كتابًا",
+  "titleLabel": "العنوان",
+  "authorLabel": "المؤلف",
+  "save": "حفظ",
+  "titleRequired": "أضف عنوانًا.",
+  "authorRequired": "أضف مؤلفًا.",
+  "statusReading": "أقرأ الآن",
+  "statusQueued": "في الانتظار",
+  "statusFinished": "انتهيت",
+  "language": "اللغة"
+}

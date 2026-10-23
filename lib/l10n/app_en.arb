@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "appTitle": "Shelf",
+  "shelfTitle": "Reading shelf",
+  "emptyShelf": "The shelf is empty.",
+  "loadFailed": "The shelf could not be loaded.",
+  "retry": "Try again",
+  "addBook": "Add a book",
+  "titleLabel": "Title",
+  "authorLabel": "Author",
+  "save": "Save",
+  "titleRequired": "Add a title.",
+  "authorRequired": "Add an author.",
+  "statusReading": "Reading",
+  "statusQueued": "Queued",
+  "statusFinished": "Finished",
+  "language": "Language"
+}
